@@ -1,0 +1,13 @@
+*{
+    margin: auto;
+    padding-bottom: 4%;
+}
+.hola, th{
+    border: 1px solid black;
+    background-color: rgb(125, 161, 192);
+}
+.linea, td{
+    border: 1px solid black;
+    background-color: rgb(179, 171, 171);
+    text-align: center;
+}
